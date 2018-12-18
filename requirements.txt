@@ -1,0 +1,7 @@
+bottle==0.12.13
+beautifulsoup4==4.6.3
+pygraphviz==1.5
+requests==2.20.1
+transitions==0.6.9
+wit==4.2.0
+gnewsclient==1.0
