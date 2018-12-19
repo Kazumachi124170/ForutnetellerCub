@@ -1,6 +1,7 @@
-# FortuneCup
+# FortunetellerCup
 
 A Facebook messenger bot based on a finite state machine
+It can tell you your daily horoscope by crawling web
 
 ## Setup
 
@@ -164,7 +165,7 @@ python3 app.py
 *  `logoAir`
 	* On entering
 		* Show: three buttons
-			* Aquarius (go to `logoAquarius')
+			* Aquarius (go to `logoAquarius`)
 			* Gemini (go to `logoGemini`)
 			* Libra (go to `logoLibra`)
 
