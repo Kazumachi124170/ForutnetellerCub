@@ -76,7 +76,7 @@ python3 app.py
 *  `starEarth`
 	* On entering
 		* Show: three buttons
-			* Taurus (go to `answerTaurus')
+			* Taurus (go to `answerTaurus`)
 			* Virgo (go to `answerVirgo`)
 			* Capricon (go to `answerCapricorn`)
 
@@ -84,7 +84,7 @@ python3 app.py
 *  `starWater`
 	* On entering
 		* Show: three buttons
-			* Cancer (go to `answerCancer')
+			* Cancer (go to `answerCancer`)
 			* Scorpio (go to `answerScorpio`)
 			* Pisces (go to `answerPisces`)
 		
@@ -92,7 +92,7 @@ python3 app.py
 *  `starFire`
 	* On entering
 		* Show: three buttons
-			* Aries (go to `answerAries')
+			* Aries (go to `answerAries`)
 			* Leo (go to `answerLeo`)
 			* Sagittarius (go to `answerSagittarius`)
 
@@ -100,7 +100,7 @@ python3 app.py
 *  `starAir`
 	* On entering
 		* Show: three buttons
-			* Aquarius (go to `answerAquarius')
+			* Aquarius (go to `answerAquarius`)
 			* Gemini (go to `answerGemini`)
 			* Libra (go to `answerLibra`)
 		
@@ -141,7 +141,7 @@ python3 app.py
 *  `logoEarth`
 	* On entering
 		* Show: three buttons
-			* Taurus (go to `logoTaurus')
+			* Taurus (go to `logoTaurus`)
 			* Virgo (go to `logoVirgo`)
 			* Capricon (go to `answerCapricorn`)
 
@@ -149,7 +149,7 @@ python3 app.py
 *  `logoWater`
 	* On entering
 		* Show: three buttons
-			* Cancer (go to `logoCancer')
+			* Cancer (go to `logoCancer`)
 			* Scorpio (go to `logoScorpio`)
 			* Pisces (go to `logoPisces`)
 		
@@ -157,7 +157,7 @@ python3 app.py
 *  `logoFire`
 	* On entering
 		* Show: three buttons
-			* Aries (go to `logoAries')
+			* Aries (go to `logoAries`)
 			* Leo (go to `logoLeo`)
 			* Sagittarius (go to `logoSagittarius`)
 
